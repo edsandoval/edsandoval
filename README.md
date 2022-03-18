@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Software Developer with more that 15 years of experience in the Java Plataform, also with a large route in frontend technologies how JavaScript, HTML5, Flutter and Angular. I'm passionate in many tech areas, by example machine learning, reinforcement learning, dinamic programing, crypto currency, DeFi apps, etc... always searching and research new frameworks, languages and methodologies.</h3>
+<h4 align="center">Software Developer with more that 15 years of experience in the Java Plataform, also with a large route in frontend technologies how JavaScript, HTML5, Flutter and Angular. I'm passionate in many tech areas, by example machine learning, reinforcement learning, dinamic programing, crypto currency, DeFi apps, etc... always searching and research new frameworks, languages and methodologies.</h4>
 
 - 🔭 I’m currently working on **Angular 10 and Java 8**
 
