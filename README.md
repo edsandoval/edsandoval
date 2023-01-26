@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h4 align="center">Software Developer with more than 15 years of experience in the Java Platform, also with a strong background in frontend technologies such as JavaScript, HTML5, Flutter, and Angular. I am passionate in many tech areas, for example, machine learning, reinforcement learning, dynamic programming, cryptocurrency, DeFi apps, etc... always searching and researching new frameworks, languages, and methodologies.</h4>
 
-- 🔭 I’m currently working on **Angular 10 and Java 8**
+- 🔭 I’m currently working on **Angular 12 and Java 17**
 
-- 🌱 I’m currently learning **Ethereum Smart Contract with Solidity**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **sandoval.e.d@gmail.com**
 
