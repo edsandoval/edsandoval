@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Seasoned Software Developer</h3>
+<h3 align="center">Senior Software Developer</h3>
 
 <p align="center">
   With over 17 years of experience in the Java Platform, I specialize in frontend technologies including JavaScript, HTML5, Flutter, and Angular. I am passionate about various tech domains such as machine learning, reinforcement learning, dynamic programming, cryptocurrency, and DeFi apps. Constantly exploring new frameworks, languages, and methodologies, I strive to stay at the forefront of technology.
